@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
-https://user-images.githubusercontent.com/97640517/216845082-685ecd71-1a26-477b-8631-3d5a31e219d3.png
-https://user-images.githubusercontent.com/97640517/216845120-10d699ea-4212-4ec5-bc07-eedbe7d7257e.png
-https://user-images.githubusercontent.com/97640517/216845157-49be5871-72ef-4eed-a92e-63d4df49ae49.png
+# Petar
+### :hammer_and_spanner: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+my personal repository
+
+
+
+
