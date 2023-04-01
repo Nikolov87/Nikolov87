@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Petar
+# I'm Petar, graduated from CodeYourFuture 03/2023
 ### :hammer_and_spanner: Languages and Tools :
 
 <div>
