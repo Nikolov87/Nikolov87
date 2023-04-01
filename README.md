@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # I'm Petar, graduated from CodeYourFuture 03/2023
-### :hammer_and_spanner: Languages and Tools :
+Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-my personal repository
+
 
 
 
