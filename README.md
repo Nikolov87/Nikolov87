@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# I'm Petar, graduated from CodeYourFuture 03/2023
+# I'm Petar, graduated Frontend developer from CodeYourFuture 03/2023
 Languages and Tools :
 
 <div>
