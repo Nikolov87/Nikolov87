@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-# I'm Petar, graduated Frontend developer from CodeYourFuture 03/2023
-I'm looking for new opportunity!!!
+##########################################
+#################!!!
 
 Languages and Tools :
 
